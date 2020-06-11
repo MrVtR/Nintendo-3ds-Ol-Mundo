@@ -1,3 +1,1 @@
-# template
-
-This is a template for starting new 3DS libctru projects.
+## Homebrew Olá Mundo para o Nintendo 3ds,source code em C++
